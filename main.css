@@ -1,0 +1,31 @@
+header{
+	background-color: #eebb44;
+    margin-bottom: 40px;
+}
+header h1{
+	line-height: 1;
+	margin-bottom: 0;
+}
+body{
+	font-family: "Roboto";
+}
+header p {
+	margin-bottom: 8px;
+}
+.full-card{
+	border: 1px solid #E5E5E5;
+	margin-bottom: 20px;
+}
+.card-pic{
+	width: 100%;
+}
+.card-discr{
+	padding: 20px;
+}
+.card-discr h3{
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.card-discr{
+	margin: 8px 0;
+}
